@@ -1458,10 +1458,8 @@ int main()
                 getch();
                 system("cls");
                 cout<<"\n\n\tPREPARED BY:-"<<endl;
-                cout<<"\n\t"<<x<<" RUDRA BARAD      18DCS007";
-                cout<<"\n\t"<<x<<" MANAN JOSHI      18DCS030";
-                cout<<"\n\t"<<x<<" KRISH PABANI     18DCS054";
-                cout<<"\n\t"<<x<<" DEVARSH JADEJA   18DCS028\n\n\n\n\n";
+               
+                cout<<"\n\t"<<x<<" PAVAN SANDEEP \n\n\n\n\n";
                 getch();
                 goto E;
                 break;
